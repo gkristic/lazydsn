@@ -2,6 +2,7 @@ Lazy DSN database driver for Go
 ===============================
 
 [![GoDoc](https://godoc.org/github.com/gkristic/lazydsn?status.svg)](https://godoc.org/github.com/gkristic/lazydsn)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gkristic/lazydsn)](https://goreportcard.com/report/github.com/gkristic/lazydsn)
 
 This package implements a database agnostic, `database/sql` style driver, with
 delayed DSN evaluation. It's a wrapper for a real driver but, instead of using
